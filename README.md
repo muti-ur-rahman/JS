@@ -2,7 +2,7 @@
 
 This template is a starter for building a website with HTML, CSS and JS, powered by [Vite](https://vitejs.dev/). HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.
 
-Hit run to see this project in action. It will auto-refresh as you edit the HTML, CSS and JS files.
+You can just hit run to see this project in action. It will auto-refresh as you edit the HTML, CSS and JS files.
 
 ## Disable Auto Refresh
 
@@ -24,4 +24,4 @@ Because this template uses Vite to build your code, you can add install and use 
 
 ## Learn More
 
-Check out [the vite docs](https://vitejs.dev) to learn more about configuring a frontend application.
+Check out [the vite docs](https://vitejs.dev) to learn more about configuring a front-end application.
